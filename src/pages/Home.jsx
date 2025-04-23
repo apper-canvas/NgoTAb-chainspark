@@ -14,7 +14,7 @@ const Home = () => {
           animate={{ opacity: 1, y: 0 }}
           className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text"
         >
-          Chain Reaction Game
+          Chain Reaction Game 1
         </motion.h1>
         <motion.p 
           initial={{ opacity: 0 }}
